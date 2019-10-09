@@ -1,4 +1,4 @@
-/* onsenui-ilove v2.10.10 - 2019-10-03 */
+/* onsenui-ilove v2.10.10 - 2019-10-09 */
 
 import ons from './ons/index.js';
 import './ons/platform';
